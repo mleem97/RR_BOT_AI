@@ -4,7 +4,8 @@
 | <img width="512" height="512" alt="20250803_2330_RushBot App Logo_simple_compose_01k1rxd9atf21b3v5gkrpyxt0f" src="https://github.com/user-attachments/assets/621d866c-864e-42bb-a28a-c8dca66425a0" /> | A cutting-edge **Python 3.13** reinforcement learning bot for "Rush Royale" that learns game mechanics from scratch through autonomous exploration. Built with hybrid AI architecture combining **Deep Q-Networks (DQN)** for strategic decisions and **Proximal Policy Optimization (PPO)** for real-time combat optimization. This project is planned to push the boundaries of AI in gaming, enabling the bot to adapt, learn, and improve its performance over time without any prior knowledge of the game. |
 |------|-------------|
 
-## Please note: This is a research project and not intended for commercial use. 
+## AI Developement
+## Please note: This is a rpository represents the current state of AI Bot Developement of @mleem97/rush-royale-bot
 Most of the AI features are still under development and may not be fully functional. 
 The Project Originally started as a project by AxelBjork (https://github.com/AxelBjork/Rush-Royale-Bot)
 The Current main codebase is basically a fixed version of the original project with some improvements. Please check the [original project](https://github.com/AxelBjork/Rush-Royale-Bot) for more details on the current state.
@@ -22,7 +23,7 @@ The Current main codebase is basically a fixed version of the original project w
 > **🚀 Revolutionary Features**: Zero-knowledge learning • POI-based training • Hybrid RL architecture • Human-like behavior patterns • Self-improving strategies
 This Bot is created in my Free Time, powered by the will to Learn something new. The Following Image shows the Future State in Developement.
 
-<img width="3840" height="2291" alt="Untitled diagram _ Mermaid Chart-2025-08-03-205957" src="https://github.com/user-attachments/assets/ec46e243-9d00-401a-a54a-b7180c835d9c" />
+<img width="1500" alt="Untitled diagram _ Mermaid Chart-2025-08-03-205957" src="https://github.com/user-attachments/assets/ec46e243-9d00-401a-a54a-b7180c835d9c" />
 
 
 ---
